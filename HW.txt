@@ -1,6 +1,0 @@
-1. 2 components in a single page
-2. each component have input field 
-3. every input can create a new element in the list
-4. every element ek 2 buttons , (Delete, Shift)
-5. Shift krte he woh element apne component se gayab hojayega or dusre component ki list mai jaake neeche yan upar add hojaye.
-
